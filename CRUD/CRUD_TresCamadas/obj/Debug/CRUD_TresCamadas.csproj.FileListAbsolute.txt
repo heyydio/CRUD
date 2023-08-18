@@ -1,0 +1,11 @@
+C:\Users\Técnico\Desktop\CRUD\CRUD_TresCamadas\bin\Debug\CRUD_TresCamadas.exe.config
+C:\Users\Técnico\Desktop\CRUD\CRUD_TresCamadas\bin\Debug\CRUD_TresCamadas.exe
+C:\Users\Técnico\Desktop\CRUD\CRUD_TresCamadas\bin\Debug\CRUD_TresCamadas.pdb
+C:\Users\Técnico\Desktop\CRUD\CRUD_TresCamadas\obj\Debug\CRUD_TresCamadas.csproj.AssemblyReference.cache
+C:\Users\Técnico\Desktop\CRUD\CRUD_TresCamadas\obj\Debug\CRUD_TresCamadas.csproj.SuggestedBindingRedirects.cache
+C:\Users\Técnico\Desktop\CRUD\CRUD_TresCamadas\obj\Debug\CRUD_TresCamadas.Properties.Resources.resources
+C:\Users\Técnico\Desktop\CRUD\CRUD_TresCamadas\obj\Debug\CRUD_TresCamadas.csproj.GenerateResource.cache
+C:\Users\Técnico\Desktop\CRUD\CRUD_TresCamadas\obj\Debug\CRUD_TresCamadas.csproj.CoreCompileInputs.cache
+C:\Users\Técnico\Desktop\CRUD\CRUD_TresCamadas\obj\Debug\CRUD_TresCamadas.exe
+C:\Users\Técnico\Desktop\CRUD\CRUD_TresCamadas\obj\Debug\CRUD_TresCamadas.pdb
+C:\Users\Técnico\Desktop\CRUD\CRUD_TresCamadas\obj\Debug\CRUD_TresCamadas.UIL_Clientes.resources
